@@ -101,3 +101,11 @@ Also discarded without scoring: night-light (murky logic), transplanted heart (t
   `MAKEFUN_OUTPUT_DIR` values and confirm both outputs are byte-identical and
   hash to `caa086c67f2ce5c0031123627cf7abf84acc4daa04449d3a4953ae8d61986050`,
   then commit/push/bundle/submit per the normal flow.
+
+## Submission
+
+- Submission: 01a215f2-ad4f-71d8-ba64-865f207afa93
+- Commit: 5d2897a33598eb7387698267d3efe23cdcc651be
+- Repo: https://github.com/lukmannurh/u-suroto-two-sentence-horror-acea9253
+- Claim code: AF-QKBB5-116E9-MEBBP-EV0D1
+- Submitted: 2026-11-26T03:42:53.073Z (parent pipeline)
